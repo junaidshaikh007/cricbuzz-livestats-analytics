@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Database files that can be reseeded
+*.sqlite3-journal
+
+# Temporary / OS
+.DS_Store
+Thumbs.db
+*.log
+cricbuzz_spec.txt
